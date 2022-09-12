@@ -55,7 +55,7 @@ During debugging process, you may run
 
 `expo start --web`
 
-to test the app in your web browser and on the Expo Go app on your mobile device at the same time.  
+to test the app in your web browser and on the Expo Go app on your mobile device at the same time.  You may try the app to [play the tictactoe game](https://snack.expo.dev/@wadehonda/tictactoenative) uploaded to the online React Native Expo Snack, which is an open-source platform for running React Native apps in the browser.
 
 When you feel satisfied with the app, you may try to further test the app as a real native app on your device and then deploy it to the Google App Store and iOS App Store.
 
@@ -117,7 +117,9 @@ You can run the following command to build the APK:
 `eas build -p android --profile preview`
 
 ### (3) Install and Test your Build
-Once your build is completed, copy the URL provided from the terminal when the build is done, then send the URL to your device (e.g., using email), and finally open the URL on your device (i.e., click the link) to start the native app installation.  After the installation, you may run it as any native apps on your mobile devices.
+Once your build is completed, copy the URL provided from the terminal when the build is done, then send the URL to your device (e.g., using email), and finally open the URL on your device (i.e., click the link) to start the native app installation (you may [click the link](https://expo.dev/accounts/wadehonda/projects/my-app/builds/64e433e7-789b-4393-b74d-b43a28d5197e) to install on your Android devices).  After the installation, you may run it as any native apps on your mobile devices (see the screen capture of the game running on an Android smart phone).
+
+<img src="./assets/tttnative.jpg" alt ="a screen capture of the app" width="256" height="455">
 
 
 
