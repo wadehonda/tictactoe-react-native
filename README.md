@@ -117,7 +117,7 @@ You can run the following command to build the APK:
 `eas build -p android --profile preview`
 
 ### (3) Install and Test your Build
-Once your build is completed, copy the URL provided from the terminal when the build is done, then send the URL to your device (e.g., using email), and finally open the URL on your device (i.e., click the link) to start the native app installation (you may [click the link](https://expo.dev/accounts/wadehonda/projects/my-app/builds/64e433e7-789b-4393-b74d-b43a28d5197e) to install on your Android devices).  After the installation, you may run it as any native apps on your mobile devices (see the screen capture of the game running on an Android smart phone).
+Once your build is completed, copy the URL provided from the terminal when the build is done, then send the URL to your device (e.g., using email), and finally open the URL on your device (i.e., [click the link](https://expo.dev/accounts/wadehonda/projects/my-app/builds/64e433e7-789b-4393-b74d-b43a28d5197e)) to start the native app installation.  After the installation, you may run it as any native apps on your mobile devices (see the screen capture of the game running on an Android smart phone).
 
 <img src="./assets/tttnative.jpg" alt ="a screen capture of the app" width="256" height="455">
 
